@@ -1,0 +1,30 @@
+=======================================================
+  FOREXAI BOT — 7-DAY TRADE SUMMARY
+  Generated: 2026-05-15 07:54 UTC
+=======================================================
+
+OVERVIEW
+  Total trades placed : 25
+  Closed trades       : 0
+  Open trades         : 25
+  Win rate            : 0.0%  (0W / 0L)
+  Total P&L           : SGD +0.00
+  Avg win             : SGD +0.00
+  Avg loss            : SGD +0.00
+  Best trade          : SGD +0.00
+  Worst trade         : SGD +0.00
+
+BY SYMBOL
+  EUR_USD        0 trades   0W /  0L  (  0.0% WR)  P&L: SGD    +0.00
+  XAU_USD        0 trades   0W /  0L  (  0.0% WR)  P&L: SGD    +0.00
+
+DAILY P&L
+
+REGIME BREAKDOWN
+
+RULES BLOCKED (56 total entries prevented)
+   51x  daily_trend_filter_bearish
+    4x  Weekend lockout — no Friday-evening or weekend entries
+    1x  Session open skip window
+
+=======================================================

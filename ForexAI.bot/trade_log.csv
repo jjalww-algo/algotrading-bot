@@ -1,0 +1,196 @@
+date,time_utc,symbol,side,units,entry_price,exit_price,pnl_sgd,regime,h1_trend,confidence,rule_blocked,status
+2026-05-05,14:36:04,EUR_USD,BUY,3000,1.17004,0,0.38,transition,bearish,81.55%,,WIN
+2026-05-05,15:35:58,EUR_USD,SELL,3000,1.17053,,,ranging,neutral,70.69%,,OPEN
+2026-05-05,15:40:17,EUR_USD,SELL,3000,1.17094,,,ranging,neutral,79.87%,,OPEN
+2026-05-05,16:05:53,EUR_USD,SELL,3000,1.17068,,,ranging,neutral,86.37%,,OPEN
+2026-05-05,16:25:30,XAU_USD,BUY,0.8,4561.77,,,transition,neutral,79.59%,,OPEN
+2026-05-05,16:40:49,EUR_USD,SELL,3000,1.17013,,,ranging,neutral,91.56%,,OPEN
+2026-05-05,16:45:12,XAU_USD,BUY,0.6,4556.775,,,trending,neutral,74.14%,,OPEN
+2026-05-05,17:30:54,EUR_USD,SELL,3000,1.16995,,,ranging,bearish,75.01%,,OPEN
+2026-05-05,17:45:41,XAU_USD,SELL,0.7,4560.65,,,trending,bearish,72.64%,,OPEN
+2026-05-05,18:10:09,EUR_USD,SELL,3000,1.16985,,,ranging,bearish,70.20%,,OPEN
+2026-05-05,19:35:33,EUR_USD,SELL,3000,1.16961,,,ranging,bearish,78.90%,,OPEN
+2026-05-05,19:55:28,XAU_USD,SELL,1.0,4554.995,,,ranging,bearish,72.22%,,OPEN
+2026-05-05,20:30:03,XAU_USD,SELL,1.0,4559.445,,,ranging,bearish,71.87%,,OPEN
+2026-05-05,21:45:24,EUR_USD,SELL,3000,1.16932,,,transition,bearish,82.67%,,OPEN
+2026-05-05,21:50:42,EUR_USD,SELL,3000,1.16933,,,transition,bearish,86.55%,,OPEN
+2026-05-05,21:56:00,EUR_USD,SELL,3000,1.16931,,,ranging,bearish,85.55%,,OPEN
+2026-05-06,11:15:56,EUR_USD,BUY,3000,1.17846,,,trending,bullish,66.46%,,OPEN
+2026-05-06,11:45:23,XAU_USD,BUY,0.4,4699.68,,,trending,bullish,73.26%,,OPEN
+2026-05-06,11:50:42,XAU_USD,BLOCKED,,,,,trending,,77.98%,Daily trade limit reached,BLOCKED
+2026-05-06,11:55:55,XAU_USD,BLOCKED,,,,,trending,,91.66%,Daily trade limit reached,BLOCKED
+2026-05-06,12:00:08,XAU_USD,BLOCKED,,,,,trending,,88.98%,Daily trade limit reached,BLOCKED
+2026-05-06,13:10:27,XAU_USD,BLOCKED,,,,,trending,,65.43%,Session open skip window,BLOCKED
+2026-05-06,13:10:32,EUR_USD,BLOCKED,,,,,trending,,83.09%,Session open skip window,BLOCKED
+2026-05-06,13:20:09,EUR_USD,BLOCKED,,,,,trending,,89.65%,Session open skip window,BLOCKED
+2026-05-06,14:21:03,EUR_USD,BLOCKED,,,,,trending,,80.65%,Daily trade limit reached,BLOCKED
+2026-05-06,14:25:16,EUR_USD,BLOCKED,,,,,trending,,81.08%,Daily trade limit reached,BLOCKED
+2026-05-06,14:40:01,EUR_USD,BLOCKED,,,,,trending,,65.55%,Daily trade limit reached,BLOCKED
+2026-05-06,14:45:19,EUR_USD,BLOCKED,,,,,trending,,82.20%,Daily trade limit reached,BLOCKED
+2026-05-06,14:50:35,EUR_USD,BLOCKED,,,,,trending,,88.03%,Daily trade limit reached,BLOCKED
+2026-05-06,14:55:51,EUR_USD,BLOCKED,,,,,trending,,92.38%,Daily trade limit reached,BLOCKED
+2026-05-06,15:01:11,EUR_USD,BLOCKED,,,,,trending,,89.70%,Daily trade limit reached,BLOCKED
+2026-05-06,15:05:25,EUR_USD,BLOCKED,,,,,trending,,84.55%,Daily trade limit reached,BLOCKED
+2026-05-06,15:10:40,EUR_USD,BLOCKED,,,,,trending,,72.01%,Daily trade limit reached,BLOCKED
+2026-05-06,15:25:25,EUR_USD,BLOCKED,,,,,trending,,83.29%,Daily trade limit reached,BLOCKED
+2026-05-06,15:30:39,EUR_USD,BLOCKED,,,,,transition,,84.02%,Daily trade limit reached,BLOCKED
+2026-05-06,15:35:54,EUR_USD,BLOCKED,,,,,transition,,73.35%,Daily trade limit reached,BLOCKED
+2026-05-06,15:40:07,EUR_USD,BLOCKED,,,,,transition,,72.03%,Daily trade limit reached,BLOCKED
+2026-05-06,15:45:23,EUR_USD,BLOCKED,,,,,transition,,84.41%,Daily trade limit reached,BLOCKED
+2026-05-06,15:50:37,EUR_USD,BLOCKED,,,,,ranging,,85.64%,Daily trade limit reached,BLOCKED
+2026-05-06,15:55:53,EUR_USD,BLOCKED,,,,,ranging,,83.89%,Daily trade limit reached,BLOCKED
+2026-05-06,16:00:09,EUR_USD,BLOCKED,,,,,ranging,,82.95%,Daily trade limit reached,BLOCKED
+2026-05-06,16:05:32,EUR_USD,SELL,3000,1.17516,,,ranging,bullish,89.50%,,OPEN
+2026-05-06,16:10:51,XAU_USD,BUY,0.6,4683.23,,,transition,bullish,74.51%,,OPEN
+2026-05-06,17:00:49,XAU_USD,SELL,0.7,4683.21,,,transition,bullish,73.21%,,OPEN
+2026-05-06,17:05:12,EUR_USD,SELL,3000,1.17503,,,transition,bullish,78.39%,,OPEN
+2026-05-06,17:50:27,XAU_USD,BUY,0.7,4681.11,,,trending,bullish,67.86%,,OPEN
+2026-05-06,18:25:21,EUR_USD,SELL,3000,1.17454,,,transition,bullish,82.64%,,OPEN
+2026-05-06,18:55:07,XAU_USD,SELL,1.0,4686.605,,,ranging,bullish,72.89%,,OPEN
+2026-05-06,19:25:37,EUR_USD,BUY,3000,1.17552,,,transition,bullish,79.20%,,OPEN
+2026-05-06,19:30:58,EUR_USD,BUY,3000,1.17534,,,transition,bullish,80.02%,,OPEN
+2026-05-06,19:45:42,XAU_USD,SELL,0.8,4695.405,,,trending,bullish,83.13%,,OPEN
+2026-05-06,20:10:58,EUR_USD,SELL,3000,1.17478,,,ranging,bullish,74.72%,,OPEN
+2026-05-06,20:40:44,EUR_USD,SELL,3000,1.1746,,,ranging,bullish,78.45%,,OPEN
+2026-05-06,20:45:02,XAU_USD,BUY,1.0,4688.825,,,ranging,bullish,86.68%,,OPEN
+2026-05-06,21:05:11,EUR_USD,SELL,3000,1.17463,,,ranging,bullish,83.84%,,OPEN
+2026-05-06,21:10:29,EUR_USD,SELL,3000,1.17464,,,ranging,bullish,84.61%,,OPEN
+2026-05-07,08:25:39,XAU_USD,BLOCKED,,,,,trending,,66.06%,Session open skip window,BLOCKED
+2026-05-07,08:30:56,EUR_USD,BLOCKED,,,,,trending,,76.49%,Daily trade limit reached,BLOCKED
+2026-05-07,08:35:06,XAU_USD,BLOCKED,,,,,trending,,68.83%,Daily trade limit reached,BLOCKED
+2026-05-07,08:35:10,EUR_USD,BLOCKED,,,,,trending,,66.80%,Daily trade limit reached,BLOCKED
+2026-05-07,08:40:21,XAU_USD,BLOCKED,,,,,trending,,73.70%,Daily trade limit reached,BLOCKED
+2026-05-07,08:40:25,EUR_USD,BLOCKED,,,,,trending,,71.12%,Daily trade limit reached,BLOCKED
+2026-05-07,08:45:36,XAU_USD,BLOCKED,,,,,trending,,67.98%,Daily trade limit reached,BLOCKED
+2026-05-07,08:45:40,EUR_USD,BLOCKED,,,,,trending,,66.50%,Daily trade limit reached,BLOCKED
+2026-05-07,08:50:52,XAU_USD,BLOCKED,,,,,trending,,68.41%,Daily trade limit reached,BLOCKED
+2026-05-07,08:50:56,EUR_USD,BLOCKED,,,,,trending,,70.02%,Daily trade limit reached,BLOCKED
+2026-05-07,08:55:05,XAU_USD,BLOCKED,,,,,trending,,68.25%,Daily trade limit reached,BLOCKED
+2026-05-07,08:55:09,EUR_USD,BLOCKED,,,,,trending,,67.98%,Daily trade limit reached,BLOCKED
+2026-05-07,09:00:19,XAU_USD,BLOCKED,,,,,trending,,82.96%,Daily trade limit reached,BLOCKED
+2026-05-07,09:00:23,EUR_USD,BLOCKED,,,,,trending,,84.38%,Daily trade limit reached,BLOCKED
+2026-05-07,09:05:35,XAU_USD,BLOCKED,,,,,trending,,79.76%,Daily trade limit reached,BLOCKED
+2026-05-07,09:05:39,EUR_USD,BLOCKED,,,,,trending,,79.96%,Daily trade limit reached,BLOCKED
+2026-05-07,09:10:53,EUR_USD,BLOCKED,,,,,trending,,83.98%,Daily trade limit reached,BLOCKED
+2026-05-07,09:15:06,EUR_USD,BLOCKED,,,,,trending,,73.83%,Daily trade limit reached,BLOCKED
+2026-05-07,09:20:22,EUR_USD,BLOCKED,,,,,transition,,86.91%,Daily trade limit reached,BLOCKED
+2026-05-07,10:50:29,EUR_USD,BLOCKED,,,,,ranging,,73.99%,Daily trade limit reached,BLOCKED
+2026-05-07,10:55:45,EUR_USD,BLOCKED,,,,,ranging,,80.05%,Daily trade limit reached,BLOCKED
+2026-05-07,12:05:59,EUR_USD,BLOCKED,,,,,transition,,92.19%,Daily trade limit reached,BLOCKED
+2026-05-07,12:10:12,EUR_USD,BLOCKED,,,,,transition,,85.36%,Daily trade limit reached,BLOCKED
+2026-05-07,12:20:41,EUR_USD,BLOCKED,,,,,ranging,,90.32%,Daily trade limit reached,BLOCKED
+2026-05-07,12:25:55,EUR_USD,BLOCKED,,,,,ranging,,89.73%,Daily trade limit reached,BLOCKED
+2026-05-07,12:30:10,EUR_USD,BLOCKED,,,,,ranging,,90.74%,Daily trade limit reached,BLOCKED
+2026-05-07,12:35:24,EUR_USD,BLOCKED,,,,,ranging,,89.53%,Daily trade limit reached,BLOCKED
+2026-05-07,12:40:44,EUR_USD,BLOCKED,,,,,ranging,,78.94%,Daily trade limit reached,BLOCKED
+2026-05-07,12:46:01,EUR_USD,BLOCKED,,,,,ranging,,80.51%,Daily trade limit reached,BLOCKED
+2026-05-07,12:50:15,EUR_USD,BLOCKED,,,,,ranging,,77.26%,Daily trade limit reached,BLOCKED
+2026-05-07,12:55:31,EUR_USD,BLOCKED,,,,,ranging,,82.33%,Daily trade limit reached,BLOCKED
+2026-05-07,13:00:53,EUR_USD,BLOCKED,,,,,ranging,,73.06%,Session open skip window,BLOCKED
+2026-05-07,13:05:10,EUR_USD,BLOCKED,,,,,ranging,,73.44%,Session open skip window,BLOCKED
+2026-05-07,13:10:26,EUR_USD,BLOCKED,,,,,ranging,,80.65%,Session open skip window,BLOCKED
+2026-05-07,13:21:01,EUR_USD,BLOCKED,,,,,ranging,,79.75%,Session open skip window,BLOCKED
+2026-05-07,13:25:17,EUR_USD,BLOCKED,,,,,ranging,,77.07%,Session open skip window,BLOCKED
+2026-05-07,13:30:40,EUR_USD,BLOCKED,,,,,ranging,,72.54%,Daily trade limit reached,BLOCKED
+2026-05-07,15:55:03,XAU_USD,BLOCKED,,,,,transition,,84.46%,Daily trade limit reached,BLOCKED
+2026-05-07,16:00:28,XAU_USD,BUY,0.5,4729.305,,,transition,bullish,90.44%,,OPEN
+2026-05-07,16:10:08,XAU_USD,BUY,0.4,4717.64,,,trending,bullish,77.85%,,OPEN
+2026-05-07,16:15:35,EUR_USD,BUY,3000,1.17598,,,trending,bullish,82.53%,,OPEN
+2026-05-07,16:40:19,EUR_USD,SELL,3000,1.17613,,,trending,bullish,82.79%,,OPEN
+2026-05-07,17:25:43,EUR_USD,BUY,3000,1.1757,,,trending,bullish,82.23%,,OPEN
+2026-05-07,17:45:40,EUR_USD,BLOCKED,,,,,trending,,69.07%,Scheduled news blackout,BLOCKED
+2026-05-07,18:00:23,EUR_USD,BLOCKED,,,,,trending,,76.16%,Scheduled news blackout,BLOCKED
+2026-05-07,18:05:37,EUR_USD,BLOCKED,,,,,trending,,84.90%,Scheduled news blackout,BLOCKED
+2026-05-07,18:10:52,EUR_USD,BLOCKED,,,,,trending,,65.50%,Scheduled news blackout,BLOCKED
+2026-05-07,18:20:19,EUR_USD,BLOCKED,,,,,trending,,72.55%,Scheduled news blackout,BLOCKED
+2026-05-07,18:25:34,EUR_USD,BLOCKED,,,,,trending,,88.70%,Scheduled news blackout,BLOCKED
+2026-05-07,18:30:46,XAU_USD,BUY,0.4,4712.875,,,trending,bullish,67.30%,,OPEN
+2026-05-07,18:35:09,EUR_USD,BUY,3000,1.17509,,,trending,bullish,66.01%,,OPEN
+2026-05-07,18:45:46,EUR_USD,BUY,3000,1.17434,,,trending,bullish,81.45%,,OPEN
+2026-05-07,18:50:02,XAU_USD,BUY,0.4,4700.695,,,trending,bullish,69.11%,,OPEN
+2026-05-07,19:20:52,EUR_USD,BUY,3000,1.17404,,,trending,bullish,70.88%,,OPEN
+2026-05-07,19:50:28,EUR_USD,BUY,3000,1.17434,,,trending,bullish,69.37%,,OPEN
+2026-05-07,20:01:04,EUR_USD,BUY,3000,1.17337,,,trending,neutral,76.47%,,OPEN
+2026-05-07,20:55:33,XAU_USD,SELL,0.5,4695.615,,,transition,bullish,73.88%,,OPEN
+2026-05-07,21:30:05,EUR_USD,SELL,3000,1.17292,,,trending,neutral,81.09%,,OPEN
+2026-05-08,11:05:36,EUR_USD,BUY,3000,1.17636,,,trending,bullish,84.23%,,OPEN
+2026-05-08,11:50:52,XAU_USD,SELL,0.8,4717.87,,,ranging,bullish,71.80%,,OPEN
+2026-05-08,12:05:44,EUR_USD,SELL,3000,1.17629,,,transition,bullish,75.74%,,OPEN
+2026-05-08,12:11:02,XAU_USD,BUY,0.8,4709.93,,,ranging,bullish,74.09%,,OPEN
+2026-05-08,12:25:50,XAU_USD,BUY,0.7,4706.485,,,transition,bullish,78.31%,,OPEN
+2026-05-08,12:45:54,EUR_USD,BUY,3000,1.1777,,,transition,bullish,79.11%,,OPEN
+2026-05-08,12:55:27,EUR_USD,BUY,3000,1.17778,,,transition,bullish,85.47%,,OPEN
+2026-05-08,13:00:49,EUR_USD,BLOCKED,,,,,transition,,88.28%,Session open skip window,BLOCKED
+2026-05-08,14:30:07,XAU_USD,SELL,0.4,4717.86,,,transition,bullish,73.36%,,OPEN
+2026-05-08,14:55:27,EUR_USD,SELL,3000,1.17758,,,ranging,bullish,71.25%,,OPEN
+2026-05-08,15:30:36,EUR_USD,SELL,3000,1.17726,,,ranging,bullish,75.24%,,OPEN
+2026-05-08,16:25:27,EUR_USD,SELL,3000,1.17766,,,ranging,bullish,88.48%,,OPEN
+2026-05-08,18:05:52,XAU_USD,BUY,0.9,4726.7,,,ranging,bullish,85.97%,,OPEN
+2026-05-08,18:10:15,EUR_USD,BUY,3000,1.1781,,,ranging,bullish,72.40%,,OPEN
+2026-05-08,19:30:15,XAU_USD,BUY,1.0,4723.855,,,ranging,bullish,70.34%,,OPEN
+2026-05-08,20:15:40,XAU_USD,BLOCKED,,,,,ranging,,80.46%,Weekend lockout — no Friday-evening or weekend entries,BLOCKED
+2026-05-08,20:20:54,XAU_USD,BLOCKED,,,,,ranging,,88.43%,Weekend lockout — no Friday-evening or weekend entries,BLOCKED
+2026-05-08,20:20:58,EUR_USD,BLOCKED,,,,,ranging,,70.35%,Weekend lockout — no Friday-evening or weekend entries,BLOCKED
+2026-05-08,20:25:07,XAU_USD,BLOCKED,,,,,ranging,,74.05%,Weekend lockout — no Friday-evening or weekend entries,BLOCKED
+2026-05-10,15:49:43,XAU_USD,BLOCKED,,,,,transition,,65.88%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,08:00:49,XAU_USD,BLOCKED,,,,,ranging,,57.83%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,08:05:58,XAU_USD,BLOCKED,,,,,ranging,,53.57%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,08:10:04,XAU_USD,BLOCKED,,,,,ranging,,66.25%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,08:15:12,XAU_USD,BLOCKED,,,,,ranging,,53.23%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,08:20:21,XAU_USD,BLOCKED,,,,,ranging,,54.42%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,08:55:16,XAU_USD,BLOCKED,,,,,ranging,,56.58%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,09:00:28,XAU_USD,BLOCKED,,,,,ranging,,50.92%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,09:05:35,XAU_USD,BLOCKED,,,,,ranging,,60.58%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,09:10:43,XAU_USD,BLOCKED,,,,,ranging,,74.39%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,09:15:51,XAU_USD,BLOCKED,,,,,ranging,,77.58%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,09:20:59,XAU_USD,BLOCKED,,,,,ranging,,79.26%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,09:25:06,XAU_USD,BLOCKED,,,,,ranging,,76.37%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,09:30:15,XAU_USD,BLOCKED,,,,,ranging,,79.12%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,09:35:22,XAU_USD,BLOCKED,,,,,transition,,51.54%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,09:50:51,XAU_USD,BLOCKED,,,,,trending,,56.29%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,10:00:10,XAU_USD,SELL,0.6,4656.895,,,trending,bearish,66.20%,,OPEN
+2026-05-11,10:15:41,XAU_USD,BLOCKED,,,,,trending,,52.90%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,10:20:48,XAU_USD,BLOCKED,,,,,trending,,64.91%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,10:40:28,XAU_USD,BLOCKED,,,,,trending,,57.05%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,11:35:57,XAU_USD,BLOCKED,,,,,transition,,53.14%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,11:40:03,XAU_USD,BLOCKED,,,,,transition,,60.40%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,11:45:10,XAU_USD,BLOCKED,,,,,trending,,52.46%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,11:50:18,XAU_USD,BLOCKED,,,,,trending,,57.30%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,11:55:26,XAU_USD,BLOCKED,,,,,trending,,53.85%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,12:00:35,XAU_USD,BLOCKED,,,,,transition,,51.90%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,12:16:01,XAU_USD,BLOCKED,,,,,transition,,54.34%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,12:30:26,XAU_USD,BLOCKED,,,,,trending,,52.14%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,12:45:50,XAU_USD,BLOCKED,,,,,trending,,57.96%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,12:50:58,XAU_USD,BLOCKED,,,,,trending,,68.73%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,12:55:06,XAU_USD,BLOCKED,,,,,trending,,52.93%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,13:10:32,XAU_USD,BLOCKED,,,,,trending,,58.51%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,13:15:40,XAU_USD,BLOCKED,,,,,trending,,69.91%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,13:20:50,XAU_USD,BLOCKED,,,,,trending,,50.29%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,13:30:11,XAU_USD,SELL,0.4,4728.5,,,trending,neutral,72.08%,,OPEN
+2026-05-11,13:45:45,XAU_USD,SELL,0.4,4743.83,,,trending,neutral,87.27%,,OPEN
+2026-05-11,13:55:10,XAU_USD,SELL,0.3,4740.04,,,trending,neutral,71.76%,,OPEN
+2026-05-11,14:10:52,XAU_USD,BLOCKED,,,,,trending,,63.65%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,14:16:02,XAU_USD,BLOCKED,,,,,trending,,50.68%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,14:20:09,XAU_USD,BLOCKED,,,,,trending,,58.67%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,14:25:18,XAU_USD,BLOCKED,,,,,trending,,57.97%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,14:40:44,XAU_USD,BLOCKED,,,,,trending,,56.98%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,14:45:52,XAU_USD,BLOCKED,,,,,trending,,53.89%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,14:50:02,XAU_USD,BLOCKED,,,,,trending,,58.87%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,14:55:10,XAU_USD,BLOCKED,,,,,trending,,61.67%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,15:25:07,XAU_USD,SELL,0.4,4736.82,,,trending,neutral,72.35%,,OPEN
+2026-05-11,16:10:49,XAU_USD,SELL,0.7,4729.36,,,ranging,neutral,71.65%,,OPEN
+2026-05-11,17:35:23,XAU_USD,BLOCKED,,,,,trending,,54.09%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,17:40:31,XAU_USD,BLOCKED,,,,,trending,,63.34%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,18:00:05,XAU_USD,BLOCKED,,,,,transition,,55.34%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,18:05:18,XAU_USD,BLOCKED,,,,,transition,,65.17%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,18:10:26,XAU_USD,BLOCKED,,,,,ranging,,65.97%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,18:55:36,XAU_USD,BLOCKED,,,,,ranging,,62.26%,daily_trend_filter_bearish,BLOCKED
+2026-05-11,19:05:56,XAU_USD,SELL,1.0,4724.465,,,ranging,neutral,82.02%,,OPEN
+2026-05-11,19:31:00,XAU_USD,SELL,1.0,4724.38,,,ranging,neutral,80.88%,,OPEN
+2026-05-11,19:55:46,XAU_USD,SELL,1.0,4734.035,,,ranging,neutral,72.33%,,OPEN
+2026-05-11,20:35:02,XAU_USD,SELL,0.9,4737.995,,,trending,neutral,84.13%,,OPEN
+2026-05-12,09:50:02,XAU_USD,BLOCKED,,,,,ranging,,52.09%,daily_trend_filter_bearish,BLOCKED
+2026-05-12,09:55:09,XAU_USD,BLOCKED,,,,,ranging,,58.35%,daily_trend_filter_bearish,BLOCKED
+2026-05-12,10:55:46,XAU_USD,SELL,0.7,4692.955,,,ranging,neutral,70.70%,,OPEN
+2026-05-12,11:20:30,XAU_USD,BLOCKED,,,,,transition,,58.05%,daily_trend_filter_bearish,BLOCKED
+2026-05-12,12:45:51,XAU_USD,BLOCKED,,,,,ranging,,55.82%,daily_trend_filter_bearish,BLOCKED

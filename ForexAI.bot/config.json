@@ -1,0 +1,88 @@
+{
+  "oanda": {
+    "API_KEY": "YOUR_LIVE_API_KEY_HERE",
+    "ACCOUNT_ID": "YOUR_LIVE_ACCOUNT_ID_HERE",
+    "ENVIRONMENT": "live"
+  },
+  "telegram": {
+    "BOT_TOKEN": "YOUR_BOT_TOKEN_HERE",
+    "CHAT_IDS": [
+      ""
+    ],
+    "enabled": true
+  },
+  "finnhub": {
+    "API_KEY": "YOUR_FINNHUB_API_KEY_HERE",
+    "enabled": true
+  },
+  "risk": {
+    "max_trade_risk_pct": 0.0075,
+    "max_drawdown_pct": 0.1,
+    "max_daily_loss_pct": 0.03,
+    "trailing_atr_multiplier": 2,
+    "starting_balance": 1000,
+    "account_currency": "SGD",
+    "sgd_to_usd_rate": 0.74
+  },
+  "trading": {
+    "symbols": [
+      "XAU_USD"
+    ],
+    "timeframe": "M5",
+    "lookback_candles": 200,
+    "sleep_seconds": 60,
+    "trade_cooldown_seconds": 300,
+    "sessions": {
+      "london_ny": {
+        "start": 8,
+        "end": 22
+      },
+      "asia": {
+        "start": 0,
+        "end": 8
+      },
+      "trade_asia": false
+    },
+    "regime": {
+      "adx_trending_threshold": 25,
+      "adx_ranging_threshold": 20
+    },
+    "rules": {
+      "pre_financing_close": {
+        "enabled": true,
+        "close_minutes_before_5am_utc": 10
+      },
+      "no_weekend_holds": {
+        "enabled": true,
+        "friday_cutoff_hour_utc": 20,
+        "friday_close_hour_utc": 21
+      },
+      "max_consecutive_losses": {
+        "enabled": true,
+        "max_losses": 3,
+        "cooldown_hours": 2
+      },
+      "max_daily_trades": {
+        "enabled": true,
+        "max_trades": 15
+      },
+      "news_blackout": {
+        "enabled": true,
+        "minutes_before": 15,
+        "minutes_after": 30,
+        "scheduled_events_utc": []
+      },
+      "partial_profit_taking": {
+        "enabled": true,
+        "trigger_pct_to_tp": 0.5,
+        "close_fraction": 0.5
+      },
+      "session_open_skip": {
+        "enabled": true,
+        "skip_minutes": 30,
+        "london_open_hour_utc": 8,
+        "ny_open_hour_utc": 13
+      }
+    }
+  }
+}
