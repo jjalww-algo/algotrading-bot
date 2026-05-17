@@ -216,3 +216,33 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Sensitive — NEVER commit these
+config.json
+*.pkl
+models/
+ 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+.env
+ 
+# Logs and outputs
+*.log
+trade_log.csv
+trade_summary.txt
+oanda_export.csv
+ 
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+ 
+# Jupyter
+.ipynb_checkpoints/
